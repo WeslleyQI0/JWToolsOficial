@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryPessoas">#ff03a9f4</color>
+    <color name="colorPrimaryDarkPessoas">#ff0288d1</color>
+    <color name="colorAccentPessoas">#ff0288d1</color>
+
+
+
+    <color name="colorArranjos">#ff824dcf</color>
+    <color name="colorArranjosAccent">#ff5b3c88</color>
+    <color name="colorArranjosDark">#ff5b3c88</color>
+
+    <color name="colorContas">#ffed3b3b</color>
+    <color name="colorContasAccent">#ffbd2f2f</color>
+    <color name="colorContasDark">#ffbd2f2f</color>
+
+    <color name="colorDiscursos">#ff607d8b</color>
+    <color name="colorDiscursosAccent">#ff455a64</color>
+    <color name="colorDiscursosDark">#ff455a64</color>
+
+    <color name="colorPastoreio">#ff009688</color>
+    <color name="colorPastoreioAccent">#ff00796b</color>
+    <color name="colorPastoreioDark">#ff00796b</color>
+
+
+    <color name="colorPublicacoes">#ff8bc34a</color>
+    <color name="colorPublicacoesAccent">#ff689f38</color>
+    <color name="colorPublicacoesDark">#ff689f38</color>
+
+    <color name="colorReuniaoVida">#fff4a41e</color>
+    <color name="colorReuniaoVidaAccent">#ffe19008</color>
+    <color name="colorReuniaoVidaDark">#ffe19008</color>
+
+
+</resources>

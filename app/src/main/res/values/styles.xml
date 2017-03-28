@@ -1,0 +1,62 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="PessoasTheme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryPessoas</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkPessoas</item>
+        <item name="colorAccent">@color/colorAccentPessoas</item>
+    </style>
+
+    <style name="Theme.Arranjos" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorArranjos</item>
+        <item name="colorPrimaryDark">@color/colorArranjosDark</item>
+        <item name="colorAccent">@color/colorArranjosAccent</item>
+    </style>
+
+    <style name="Theme.Contas" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorContas</item>
+        <item name="colorPrimaryDark">@color/colorContasDark</item>
+        <item name="colorAccent">@color/colorContasAccent</item>
+    </style>
+
+    <style name="Theme.Discursos" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorDiscursos</item>
+        <item name="colorPrimaryDark">@color/colorDiscursosDark</item>
+        <item name="colorAccent">@color/colorDiscursosAccent</item>
+    </style>
+
+    <style name="Theme.Pastoreio" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPastoreio</item>
+        <item name="colorPrimaryDark">@color/colorPastoreioDark</item>
+        <item name="colorAccent">@color/colorPastoreioAccent</item>
+    </style>
+
+    <style name="Theme.Publicacoes" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPublicacoes</item>
+        <item name="colorPrimaryDark">@color/colorPublicacoesDark</item>
+        <item name="colorAccent">@color/colorPublicacoesAccent</item>
+    </style>
+
+    <style name="Theme.ReuniaoVida" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorReuniaoVida</item>
+        <item name="colorPrimaryDark">@color/colorReuniaoVidaDark</item>
+        <item name="colorAccent">@color/colorReuniaoVidaAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

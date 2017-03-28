@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_pessoas"
+            android:icon="@drawable/ic_pesssoas"
+            android:title="Pessoas" />
+        <item
+            android:id="@+id/nav_arranjos"
+            android:icon="@drawable/ic_arranjos"
+            android:title="Arranjos" />
+        <item
+            android:id="@+id/nav_discursos"
+            android:icon="@drawable/ic_discursos"
+            android:title="Discursos" />
+        <item
+            android:id="@+id/nav_pastoreio"
+            android:icon="@drawable/ic_pastoreio"
+            android:title="Pastoreio" />
+        <item
+            android:id="@+id/nav_reuniaovida"
+            android:icon="@drawable/ic_reuniao_vida"
+            android:title="Reunião Vida" />
+        <item
+            android:id="@+id/nav_publiccoes"
+            android:icon="@drawable/ic_publicacoes"
+            android:title="Publicações" />
+        <item
+            android:id="@+id/nav_contas"
+            android:icon="@drawable/ic_contas"
+            android:title="Contas" />
+    </group>
+
+
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_configuracoes"
+                android:icon="@drawable/ic_configuracoes"
+                android:title="ConfiguraÃ§oes" />
+        </menu>
+    </item>
+
+
+</menu>
