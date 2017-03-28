@@ -7,4 +7,18 @@
 
     <string name="action_settings">Settings</string>
     <string name="title_activity_pessoas">PessoasActivity</string>
+    <string name="nav_todos">Todos</string>
+    <string name="nav_feminino">Feminino</string>
+    <string name="nav_masculino">Masculino</string>
+    <string name="nav_criancas">Crianças</string>
+    <string name="nav_congregacao">Congregação</string>
+    <string name="nav_batizados">Batizados</string>
+    <string name="nav_nao_batizados">Não Batizados</string>
+    <string name="nav_recem_batizados">Recem Batizados</string>
+    <string name="nav_estudantes">Estudantes</string>
+    <string name="nav_pioneiros_regulares">Pioneiros Regulares</string>
+    <string name="nav_anciaos">Anciãos</string>
+    <string name="nav_servos_ministeriais">Servos Ministeriais</string>
+
+
 </resources>
