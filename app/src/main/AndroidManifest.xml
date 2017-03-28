@@ -24,7 +24,10 @@
             android:name=".activitys.PessoasActivity"
             android:label="@string/title_activity_pessoas"
             android:theme="@style/PessoasTheme" />
-        <activity android:name=".activitys.AddPessoasActivity"></activity>
+
+        <activity
+            android:name=".activitys.CadastroPessoasActivity"
+            android:theme="@style/CadastroPessoasTheme"/>
     </application>
 
 </manifest>

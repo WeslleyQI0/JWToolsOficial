@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primeiro_nome" type="id">primeiro_nome</item>
+    <item name="segundo_nome" type="id">segundo_nome</item>
+    <item name="ultimo_nome" type="id">ultimo_nome</item>
+    <item name="imgFoto" type="id">img_foto</item>
+</resources>

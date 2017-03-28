@@ -8,7 +8,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="PessoasTheme" parent="AppTheme.NoActionBar">
+    <style name="PessoasTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimaryPessoas</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkPessoas</item>
         <item name="colorAccent">@color/colorAccentPessoas</item>
@@ -50,6 +50,12 @@
         <item name="colorAccent">@color/colorReuniaoVidaAccent</item>
     </style>
 
+    <style name="CadastroPessoasTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryPessoas</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkPessoas</item>
+        <item name="colorAccent">@color/colorAccentPessoas</item>
+    </style>
+
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
@@ -59,4 +65,40 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="com_PrimeiroNome">
+        <item name="android:textColorHint">@color/colorPrimaryDarkPessoas</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">9.0dip</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:hint">@string/com_nomePrimeiro</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:inputType">textPersonName|textCapWords</item>
+    </style>
+
+    <style name="com_SegundoNome">
+        <item name="android:textColorHint">@color/colorPrimaryDarkPessoas</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">9.0dip</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:hint">@string/com_nomeSegundo</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:inputType">textPersonName|textCapWords</item>
+    </style>
+
+    <style name="com_UltimoNome">
+        <item name="android:textColorHint">@color/colorPrimaryDarkPessoas</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">9.0dip</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:hint">@string/com_nomeUltimo</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:inputType">textPersonName|textCapWords</item>
+    </style>
+
+    <string name="com_nomePrimeiro">Primeiro Nome</string>
+    <string name="com_nomeSegundo">Segundo Nome</string>
+    <string name="com_nomeUltimo">Ultimo Nome</string>
 </resources>
